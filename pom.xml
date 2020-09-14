@@ -9,9 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.qa</groupId>
-    <artifactId>notes</artifactId>
+    <artifactId>wordbanksProject</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>notes</name>
+    <packaging>jar</packaging>
+    <name>wordbanksProject</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>
